@@ -1,0 +1,104 @@
+/* espacos: */
+.espacoTop246{
+    padding-top: 246px;
+}
+
+.espacoTop176{
+    margin-top: 176px;
+}
+
+.espacoTop30{
+    padding-top: 30px;
+}
+
+.espacoAlerta{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.fundoPreto{
+    background-color: #000000;
+}
+
+.corBranco{
+    color: #ffffff;
+}
+
+.hoverVerde{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.hoverVerde:link {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.hoverVerde:visited {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.hoverVerde:hover {
+    color: #28a745;
+    text-decoration: none;
+}
+
+.hoverVerde:active {
+    color: #28a745;
+    text-decoration: none;
+}
+
+.hoverAzul{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.hoverAzul:link {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.hoverAzul:visited {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.hoverAzul:hover {
+    color: #0583F2;
+    text-decoration: none;
+}
+
+.hoverAzul:active {
+    color: #0583F2;
+    text-decoration: none;
+}
+
+.espacoTop10{
+    padding-top: 10px;
+}
+
+.hoverVermelho{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.hoverVermelho:link {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.hoverVermelho:visited {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.hoverVermelho:hover {
+    color: #DC3545;
+    text-decoration: none;
+}
+
+.hoverVermelho:active {
+    color: #DC3545;
+    text-decoration: none;
+}
